@@ -2,6 +2,7 @@
 
 This is a simplified PyTorch implementation of the paper "Density-Guided Continuous Flow for Robust Counterfactual Explanations" (DensityFlow).
 
+Accepted via ICML 2026
 
 
 DensityFlow addresses the challenge of \*\*model multiplicity\*\* in counterfactual explanations by:
